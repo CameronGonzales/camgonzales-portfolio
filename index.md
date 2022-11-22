@@ -4,15 +4,15 @@
 
 ### Graphic design Projects 
 
-[Project 1: Ripped Text Effect](/sample_page)
+[Project 1: Photshopped](/sample_page)
 <img src="images/ripped imag.png?raw=true"/>
 
 ---
-[Project 2: Galaxy Cat](/pdf/sample_presentation.pdf)
+[Project 2: Graffiti](/pdf/sample_presentation.pdf)
 <img src="images/grafiti.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Double exposure](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

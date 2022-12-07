@@ -12,8 +12,8 @@
 <img src="images/grafiti.png?raw=true"/>
 
 ---
-[Double exposure](http://example.com/)
-<img src="
+[Project 3: Double exposure](http://example.com/)
+<img src="https://github.com/CameronGonzales/camgonzales-portfolio.git">
 
 ---
 

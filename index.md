@@ -13,7 +13,7 @@
 
 ---
 [Project 3: Double exposure](http://example.com/)
-<img src="> 
+<img src="https://github.com/CameronGonzales/camgonzales-portfolio/blob/master/images/image(2)%20(1).png?raw=true"> 
 
 ---
 

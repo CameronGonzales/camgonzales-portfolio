@@ -15,20 +15,25 @@
 [Project 3: Double exposure](http://example.com/)
 <img src="https://github.com/CameronGonzales/camgonzales-portfolio/blob/master/images/image(2)%20(1).png?raw=true"> 
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Project 4: ](http://example.com/)
+<img src="
 
 ---
 
+### My Trinkets
 
+- [Project 1 About me](https://trinket.io/html/bd2be826e1/)
+- [Project 2 Tell a story](https://trinket.io/html/cffb73637c/)
+- [Project 3 Moon rotating Earth](https://trinket.io/html/4311f9547d/)
+- [Project 4 Sunrise animation](https://trinket.io/html/5085f92143?runMode=autorun/)
+- [Project 5 Stickers](https://trinket.io/html/df4856042d/)
 
+          
+          
+---
+
+### My Midterm Project
+  -[Midterm Project- E commerce](https://https://glisten-prudence-dignity.w3spaces-preview.com/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>

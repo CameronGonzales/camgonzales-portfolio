@@ -33,7 +33,7 @@
 ---
 
 ### My Midterm Project
-  -[Midterm Project- E commerce](https://https://glisten-prudence-dignity.w3spaces-preview.com/)
+  -[Midterm Project- My resturant](https://https://glisten-prudence-dignity.w3spaces-preview.com/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
